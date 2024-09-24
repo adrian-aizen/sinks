@@ -1,35 +1,48 @@
-/* Outdated CSS */
-body {
-    font-family: Arial, sans-serif;
+*{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
 }
 
-h1 {
-    margin: 0;
+.heading-content {
+
 }
 
-ul {
-    margin: 0;
-    padding: 0;
+#heading-name {
+
 }
 
-li {
-    margin: 0;
-    padding: 0;
+#motto {
+
 }
 
-p {
-    margin: 0;
-    padding: 0;
+.nav a,
+.nav a:visited {
+    font-family: 'Times New Roman', Times, serif;
+    color: #9f9f9f;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 10px 15px;
+    transition: all 0.5s ease-in-out;
 }
 
-img {
-    width: 100%;
-    height: auto;
+.nav a:hover {
+    color: rgb(97, 76, 249);
 }
 
-table {
-    width: 100%;
-    border-collapse: collapse;
+.about-content {
+
 }
+
+
+.types-content {
+
+}
+
+
+.feature.content {
+
+}
+
+
