@@ -12,7 +12,7 @@ html, body {
 body {
     display: flex;
     flex-direction: column;
-    background-color: blanchedalmond;
+    background-color: #C0D6DF;
 }
 
 img {
@@ -21,7 +21,7 @@ img {
 }
 
 footer {
-    background-color: rgb(0, 0, 0);
+    background-color: #3B525C;
     color: rgb(255, 255, 255);
     text-align: center;
     padding: 10px;
@@ -36,7 +36,7 @@ footer {
 }
 
 #header-nav {
-    background-color: black;
+    background-color: #3B525C;
     height: 60px;
     display: flex;
     align-items: center;
@@ -82,7 +82,7 @@ footer {
 
 
 .about-container {
-    background-color: rgb(188, 149, 76);
+    background-color: #4F6D7A;
     box-shadow: 0 16px 20px rgba(0,0,0,.3);
     margin: 40px;
     padding: 80px 50px;
@@ -97,7 +97,7 @@ footer {
 }
 
 .types-container {
-    background-color: rgb(188, 149, 76);
+    background-color: #4F6D7A;
     box-shadow: 0 16px 20px rgba(0,0,0,.3);
     margin: 40px;
     padding: 80px 50px;
@@ -113,7 +113,7 @@ footer {
 
 
 .feature-container {
-    background-color: rgb(188, 149, 76);
+    background-color: #4F6D7A;
     box-shadow: 0 16px 20px rgba(0,0,0,.3);
     margin: 40px;
     padding: 80px 50px;
@@ -141,7 +141,7 @@ footer {
     
     body {
         display: flex;
-        background-color: blanchedalmond;
+        background-color: #C0D6DF;
     }
     
     img {
@@ -150,7 +150,7 @@ footer {
     }
     
     footer {
-        background-color: rgb(0, 0, 0);
+        background-color: #3B525C;
         color: rgb(255, 255, 255);
         text-align: center;
         padding: 10px;
@@ -165,7 +165,7 @@ footer {
     }
     
     #header-nav {
-        background-color: black;
+        background-color: #3B525C;
         height: 60px;
         display: flex;
         align-items: center;
@@ -211,10 +211,10 @@ footer {
     
     
     .about-container {
-        background-color: rgb(188, 149, 76);
+        background-color: #4F6D7A;
         box-shadow: 0 16px 20px rgba(0,0,0,.3);
         margin: 10px;
-        padding: 50px 20px;
+        padding: 80px 50px;
         width: 75%;
         border-radius: 40px;
         color: #fcfdfd;
@@ -226,10 +226,10 @@ footer {
     }
     
     .types-container {
-        background-color: rgb(188, 149, 76);
+        background-color: #4F6D7A;
         box-shadow: 0 16px 20px rgba(0,0,0,.3);
         margin: 10px;
-        padding: 50px 20px;
+        padding: 80px 50px;
         width: 75%;
         border-radius: 40px;
         color: #fcfdfd;
@@ -242,10 +242,10 @@ footer {
     
     
     .feature-container {
-        background-color: rgb(188, 149, 76);
+        background-color: #4F6D7A;
         box-shadow: 0 16px 20px rgba(0,0,0,.3);
         margin: 10px;
-        padding: 50px 20px;
+        padding: 80px 50px;
         width: 75%;
         border-radius: 40px;
         color: #fcfdfd;
